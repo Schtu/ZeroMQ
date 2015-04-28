@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZMQ_REQ_REP_Test/Server.cs">
+    <Files>
+      <File FileName="ZMQ_REQ_REP_Test/Server.cs" Line="3" Column="7" />
+      <File FileName="ZMQ_REQ_REP_Test/Client.cs" Line="26" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

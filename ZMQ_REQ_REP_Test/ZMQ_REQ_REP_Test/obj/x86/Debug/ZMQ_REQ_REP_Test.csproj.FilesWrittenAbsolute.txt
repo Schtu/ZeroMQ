@@ -1,0 +1,12 @@
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/ZMQ_REQ_REP_Test.exe.mdb
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/ZMQ_REQ_REP_Test.exe
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/ZMQ_REQ_REP_Test.exe
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/ZMQ_REQ_REP_Test.exe.mdb
+/home/schtu/monodev projects/ZMQ_RequestReply_Test/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/NetMQ.dll
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/ZMQ_REQ_REP_Test.exe.mdb
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/ZMQ_REQ_REP_Test.exe
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/ZMQ_REQ_REP_Test.exe
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/obj/x86/Debug/ZMQ_REQ_REP_Test.exe.mdb
+/home/schtu/.git/ZeroMQ/ZMQ_REQ_REP_Test/ZMQ_REQ_REP_Test/bin/Debug/NetMQ.dll
